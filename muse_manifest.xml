@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="muse.com" resolutions="1x" timestamp="1508381856506">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Software.com" resolutions="1x" timestamp="1508433173696">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="203056134" ref="index"/>
+    <file name="index.css" crc="484540601" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,6 +16,33 @@
     <file name="unad.jpg" crc="3977689997" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="estudiante.jpg" crc="30289557" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="etapas.jpg" crc="4064631452" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="costos y financiacion.jpg" crc="80834013" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logounadgrisinferior.png" crc="216339064" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calidad1000.jpg" crc="404192879" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calidad9001.jpg" crc="3764944380" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calidad14001.jpg" crc="3989558465" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calidad18001.jpg" crc="3945406703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="certificado.jpg" crc="45780397" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3849986696" seo="true" mt="1508381529372" redirect="true"/>
+  <file name="index.html" crc="508745660" seo="true" mt="1508433172310" redirect="true"/>
 </manifest>

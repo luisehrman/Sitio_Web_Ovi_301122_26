@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="muse.com" resolutions="1x" timestamp="1509406602452">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="muse.com" resolutions="1x" timestamp="1509407207408">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="334164758" ref="lectura-1:lectura-4:referencias:lectura-5:autores:index:multimedia-2:actividad-4:actividad-1:lectura-3:actividad-5:multimedia-1:lectura-2:actividad-6:actividad-3:actividad-2"/>
@@ -7,7 +7,7 @@
     <file name="referencias.css" crc="405141441" ref="referencias"/>
     <file name="lectura-5.css" crc="528029168" ref="lectura-5"/>
     <file name="autores.css" crc="48510663" ref="autores"/>
-    <file name="index.css" crc="424624447" ref="index"/>
+    <file name="index.css" crc="79852838" ref="index"/>
     <file name="multimedia-2.css" crc="3794179219" ref="multimedia-2"/>
     <file name="actividad-4.css" crc="474457031" ref="actividad-4"/>
     <file name="actividad-1.css" crc="217807395" ref="actividad-1"/>
@@ -47,7 +47,6 @@
     </file>
     <file name="costos y financiacion.jpg" crc="3905880827" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logounadgrisinferior.png" crc="216339064" ref="index">
       <caption webpage="index" alt=""/>
@@ -84,7 +83,7 @@
       <caption webpage="autores" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="260382545" seo="true" mt="1509406559086" redirect="true"/>
+  <file name="index.html" crc="4173578252" seo="true" mt="1509407156345" redirect="true"/>
   <file name="lectura-1.html" crc="4268181480" seo="true" mt="1509406559086" redirect="true"/>
   <file name="lectura-2.html" crc="4098835767" seo="true" mt="1509406559086" redirect="true"/>
   <file name="lectura-3.html" crc="3872550625" seo="true" mt="1509406559086" redirect="true"/>
